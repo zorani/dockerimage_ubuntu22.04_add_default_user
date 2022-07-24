@@ -1,1 +1,1 @@
-# dockerimage_ubuntu22.04_default_user
+# dockerimage_ubuntu22.04_add_default_user
